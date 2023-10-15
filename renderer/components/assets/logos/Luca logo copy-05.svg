@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#4E4A4A;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#B59752;}
+	.st2{fill:#4E4A4A;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#0B0B0B;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st4" d="M495.17,540.46H304.83c-29.86,0-54.07-24.21-54.07-54.07V313.61c0-29.86,24.21-54.07,54.07-54.07h190.33
+		c29.86,0,54.07,24.21,54.07,54.07v172.79C549.24,516.26,525.03,540.46,495.17,540.46"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M304.83,259.53c-29.86,0-54.07,24.21-54.07,54.07v172.79c0,29.86,24.21,54.07,54.07,54.07h190.34
+				c29.86,0,54.07-24.21,54.07-54.07V313.61c0-29.86-24.21-54.07-54.07-54.07H304.83z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline class="st5" points="248.91,546.03 551.09,546.03 546.09,253.96 		"/>
+	</g>
+	<rect x="317.43" y="480.83" class="st6" width="165.13" height="7.07"/>
+	<polygon class="st6" points="403.53,318.32 403.53,301.65 400,299.42 396.46,301.65 396.46,318.32 400,316.09 	"/>
+	<polygon class="st1" points="375.26,373.8 396.47,360.43 396.47,473.76 403.53,473.76 403.53,406.02 410.61,401.56 410.61,373.22 
+		417.67,377.68 417.67,397.1 424.74,392.65 431.81,397.1 431.81,369.92 424.74,365.47 424.74,351.63 417.67,347.17 417.67,333.04 
+		400,321.9 382.33,333.04 382.33,341.37 400,330.23 400,336.03 375.26,351.63 375.26,359.96 400,344.37 400,349.87 368.19,369.92 
+		368.19,397.1 375.26,392.65 	"/>
+	<path class="st1" d="M424.74,401l-14.13,8.91v63.84h7.07v-59.97l7.07-4.46v64.43h42.42v-7.07h-7.07v-43.4L424.74,401z
+		 M445.95,459.62h-7.07v-33.04l7.07,4.46V459.62z"/>
+	<polygon class="st1" points="361.12,426.58 354.05,431.04 354.05,459.62 361.12,459.62 	"/>
+	<polygon class="st6" points="389.4,401.56 389.4,373.22 382.33,377.67 382.33,397.1 	"/>
+	<path class="st1" d="M375.26,409.33l7.07,4.46v59.97h7.07v-63.84L375.26,401l-35.34,22.29v43.4h-7.07v7.07h42.41V409.33z
+		 M368.19,466.69h-21.21v-39.53l21.21-13.37V466.69z"/>
+</g>
+</svg>

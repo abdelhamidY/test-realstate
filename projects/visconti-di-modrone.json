@@ -1,0 +1,43 @@
+{
+    "hero": "project/b/landing.jpg",
+    "title": "Visconti di Modrone",
+    "location": "Via Uberto Visconti di Modrone 19",
+    "invested": "€ 1.187.000",
+    "rawVirtualTour": "/bg-3.jpg",
+    "imageGroups": [
+        {
+            "name": "Apartement 1",
+            "imagesFilter": "project/a/slide/APT-1/*"
+        },
+        {
+            "name": "Apartement 2",
+            "imagesFilter": "project/a/slide/APT-2/*"
+        },
+        {
+            "name": "Apartement 3",
+            "imagesFilter": "project/a/slide/APT-3/*"
+        }
+    ],
+    "details": {
+        "totalArea": "236",
+        "apartments": "3"
+    },
+    "description": {
+        "it": "Situato nella prestigiosa Visconti di modrone, nel cuore del centro di Milano, questo investimento offre un'opportunità unica di essere immersi nella vibrante vita milanese. La via è rinomata per la sua posizione privilegiata, circondata da negozi, ristoranti, caffè e tutti i comfort che la città ha da offrire. L'investimento in questa zona centrale offre un'esperienza di vita di lusso, con una vasta gamma di servizi e attrazioni culturali a pochi passi di distanza. Grazie a questa posizione privilegiata, gli acquirente o gli inquilini possono godere di una vita dinamica e cosmopolita, con accesso facilitato ai trasporti pubblici e ad altre zone di interesse nella città.",
+        "en": "Located in prestigious Visconti di modrone, in the heart of downtown Milan, this investment offers a unique opportunity to be immersed in vibrant Milanese life. The street is renowned for its prime location, surrounded by stores, restaurants, cafes and all the amenities the city has to offer. Investing in this central area offers an upscale living experience, with a wide range of amenities and cultural attractions within walking distance. With this prime location, buyers or tenants can enjoy a dynamic and cosmopolitan lifestyle, with easy access to public transportation and other areas of interest in the city."
+    },
+    "characteristics": [
+        "alarm",
+        "pool",
+        "airConditioning",
+        "terrace",
+        "carParking"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.228355012498!2d9.197871515557498!3d45.46520367910098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6a494ba43c3%3A0xd2f24610a324c355!2sVia%20Uberto%20Visconti%20di%20Modrone%2C%2019%2C%2020122%20Milano%20MI!5e0!3m2!1sit!2sit!4v1690654492131!5m2!1sit!2sit",
+    "planimetry": "project/a/plan-1.png",
+    "virtualTours": [
+        "https://kuula.co/share/collection/7JZXx?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1",
+        "https://kuula.co/share/collection/7JZXt?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1",
+        "https://kuula.co/share/collection/7JZXz?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1"
+    ]
+}

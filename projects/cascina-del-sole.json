@@ -1,0 +1,43 @@
+{
+    "hero": "project/a/landing-hero.jpg",
+    "title": "Cascina del Sole",
+    "location": "Novate Milanese",
+    "invested": "€ 539.200",
+    "rawVirtualTour": "/bg-2.jpg",
+    "imageGroups": [
+        {
+            "name": "Apartement 1",
+            "imagesFilter": "project/a/slide/APT-1/*"
+        },
+        {
+            "name": "Apartement 2",
+            "imagesFilter": "project/a/slide/APT-2/*"
+        },
+        {
+            "name": "Apartement 3",
+            "imagesFilter": "project/a/slide/APT-3/*"
+        }
+    ],
+    "details": {
+        "totalArea": "236",
+        "apartments": "3"
+    },
+    "description": {
+        "it": "Situato In Via Cascina Del Sole (Novate Milanese), questo investimento trasforma uno spazio abbandonato in un'area viva e dinamica. Grazie al nostro impegno, abbiamo dato nuova vita a questa zona, creando opportunità per la comunità locale. Attraverso un'attenta riqulificazione, abbiamo reso questo luogo attraente e funzionale, offrendo un ambiente piacevole per le attività residenziale. La posizione strategica situata al centro di Novate Milanese la rende una scelta ideale per coloro che desiderano beneficiare di un contesto tranquillo e allo stesso tempo di una buona accessibilità ai servizi e alle principali vie di comunicazione.",
+        "en": "Located In Via Cascina Del Sole (Novate Milanese), this investment transforms an abandoned space into a lively and dynamic area. Through our efforts, we have breathed new life into this area, creating opportunities for the local community. Through careful redevelopment, we have made this place attractive and functional, providing a pleasant environment for residential activities. The strategic location situated in the center of Novate Milanese makes it an ideal choice for those who wish to benefit from a quiet setting and at the same time from good accessibility to services and major communication routes."
+    },
+    "characteristics": [
+        "alarm",
+        "pool",
+        "airConditioning",
+        "terrace",
+        "carParking"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5920.8847456785525!2d9.138142086809603!3d45.54458217889965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786bf8dcca6371d%3A0x8ff6a06d8b9bef51!2s20026%20Cascina%20del%20Sole%20MI!5e0!3m2!1sit!2sit!4v1686597271094!5m2!1sit!2sit",
+    "planimetry": "project/a/plan-1.png",
+    "virtualTours": [
+        "https://kuula.co/share/collection/7JJFR?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1",
+        "https://kuula.co/share/collection/7JJJ7?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1",
+        "https://kuula.co/share/collection/7JJJX?logo=0&info=0&fs=1&vr=1&initload=1&autorotate=1"
+    ]
+}
